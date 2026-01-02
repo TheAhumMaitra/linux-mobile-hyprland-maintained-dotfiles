@@ -1,4 +1,4 @@
-#🌺 Linux mobile dotfiles
+# 🌺 Linux mobile dotfiles
 
 The beautiful assesthatic anime style Hyprland preconfigured setup for you!
 
