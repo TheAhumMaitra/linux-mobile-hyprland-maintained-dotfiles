@@ -17,8 +17,7 @@ The beautiful cutie anime style Hyprland setup fot you
 - **Launcher** • [Rofi](https://github.com/davatorium/rofi) 🚀 Realmente rápido
   y customizable!
 - **File Manager** • [Ranger](https://github.com/ranger/ranger)🔖 custom!
-- **GUI Basic-IDE** • [NvChad-V2](https://github.com/linuxmobile/nvchad-v2) Rice
-  IDE!
+
 
 ## 🌸 Setup
 
@@ -125,6 +124,7 @@ git clone https://github.com/linuxmobile/hyprland-dots $HOME/Downloads/hyprland-
 cd $HOME/Downloads/hyprland-dots/
 rsync -avxHAXP --exclude '.git*' .* ~/
 ```
+**THe installation script is going to coming soon**
 
 </details>
 </div>
