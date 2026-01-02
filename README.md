@@ -1,6 +1,6 @@
-# Linux mobile dotfiles
+#🌺 Linux mobile dotfiles
 
-The beautiful cutie anime style Hyprland setup fot you
+The beautiful assesthatic anime style Hyprland preconfigured setup for you!
 
 **Note : This Hyprland is newly maintained by Ahum Maitra**
 
