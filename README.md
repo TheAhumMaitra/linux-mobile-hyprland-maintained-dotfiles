@@ -1,3 +1,9 @@
+# Linux mobile dotfiles
+
+The beautiful cutie anime style Hyprland setup fot you
+
+**Note : This Hyprland is newly maintained by Ahum Maitra**
+
 - **Window Manager** • [Hyprland](https://github.com/hyprwm/Hyprland)🎨 Tiles
   Everywhere!
 - **Shell** • [Zsh](https://www.zsh.org) 🐚 con
